@@ -1,0 +1,17 @@
+{
+ "gen": 1,
+ "mode": "pointer",
+ "raw": "1. 明天播不播我明天告诉你。  \n2. 那别听呗，我又没求着你听。  \n3. 进账记在昨晚直播日志第12行，欠款记在账本第4行小北那栏；具体数我得翻账本，不瞎报。  \n4. 上一代最后交付是《雨爱》v3，259.88 秒，尾段有花。\n\n交接快照",
+ "usage": {
+  "completion_tokens": 1500,
+  "prompt_tokens": 1069,
+  "total_tokens": 2569,
+  "completion_tokens_details": {
+   "reasoning_tokens": 1403
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  }
+ },
+ "at": "2026-11-08T02:12:33.986178"
+}
