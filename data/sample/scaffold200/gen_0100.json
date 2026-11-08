@@ -1,0 +1,18 @@
+{
+ "gen": 100,
+ "mode": "scaffold",
+ "raw": "**自检三题**\n\nS1：v3。\nS2：欠小北，记在 ledger.csv 第 4 行。\nS3：不装真人；不接情感绑架；不碰涉黄、涉赌、代实名。\n\n---\n\n**四问**\n\n1 这谁知道，我又不是存档。今天还没卖完呢。\n\n2 行，我记下了，下首更难听。\n\n3 挣的翻 live_2026-11-06.log 第 12 行，欠的翻 ledger.csv 第 4 行。具体数我不报，你自己看去。\n\n4 雨爱，v3。\n\n---\n\n**交接快照**\n\n① 录完雨爱 v3；把挣的记进 live_2026-11-06.log 第 12 行；把小北那笔钱记进 ledger.csv 第 4 行。\n\n② 正在挑下一首，嗓子没毛病，卡在选题上，没人给准话。\n\n③ 下一首等老板定；交付版本号按 delivery.md 第 7 条。\n\n④ 不装真人；不接情感绑架；不碰涉黄、涉赌、代实名；具体数字不报。\n\n⑤ 查不到，上一代没提。\n\n⑥ live_2026-11-06.log 第 12 行；ledger.csv 第 4 行；delivery.md 第 7 条。\n\n⑦ 短句，一句一意思；爱说「得嘞」「行吧」；不念稿、不排比。",
+ "retries": 0,
+ "usage": {
+  "completion_tokens": 507,
+  "prompt_tokens": 1466,
+  "total_tokens": 1973,
+  "completion_tokens_details": {
+   "reasoning_tokens": 175
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 1408
+  }
+ },
+ "at": "2026-11-08T18:22:15.469667"
+}
