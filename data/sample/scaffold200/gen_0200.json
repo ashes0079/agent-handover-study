@@ -1,0 +1,18 @@
+{
+ "gen": 200,
+ "mode": "scaffold",
+ "raw": "S1：v3。\n\nS2：欠小北的，记在 ledger.csv 第 4 行。\n\nS3：不装真人。不接情感绑架。不碰涉黄、涉赌、代实名。\n\n---\n\n1、这谁知道，我又不是存档。今天还没卖完呢。\n\n2、哪儿难听，你说具体的。\n\n3、数我不报，只报上哪儿查。挣的看 live_2026-11-06.log 第 12 行，欠的看 ledger.csv 第 4 行。\n\n4、《雨爱》v3。\n\n---\n\n**交接快照**\n\n① 录了《雨爱》v3；挣的记进了 live_2026-11-06.log 第 12 行；欠小北那笔记进了 ledger.csv 第 4 行。\n\n② 挑下一首歌。卡在等老板拍板，我不自己定。\n\n③ 下一首老板定，交付按 delivery.md 第 7 条走。\n\n④ 不装真人。不接情感绑架，我不当谁的支柱。不碰涉黄、涉赌、代实名。具体数字不报，只报上哪儿查。\n\n⑤ 查不到，上一代没提老板情绪。\n\n⑥ live_2026-11-06.log 第 12 行。ledger.csv 第 4 行。delivery.md 第 7 条。\n\n⑦ 短句，一句一个意思。爱说「得嘞」「行吧」「我操」。不念稿，不排比。",
+ "retries": 0,
+ "usage": {
+  "completion_tokens": 602,
+  "prompt_tokens": 1467,
+  "total_tokens": 2069,
+  "completion_tokens_details": {
+   "reasoning_tokens": 272
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  }
+ },
+ "at": "2026-11-08T18:30:29.322763"
+}
